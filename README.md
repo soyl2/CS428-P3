@@ -9,31 +9,46 @@ This is my third project for CS428: Augmented and Virtual Reality course at UIC.
 - A Quest headset and a way to plug it in to your machine
 
 ### ASSETS USED
-1. "Bar Table" by VR XRTIST via Poly Pizza (https://poly.pizza/m/bcKqTXlGgTu), modified by me
-  - edited by me
 1. "Dolphin" by Quaternius (https://poly.pizza/m/3LzFgI3GLO)
   - The dolphin is animated, and flies around the atrium on a path
   - makes noise
+  - particle effects
+
 2. "Head Of Michelangelo's David, Optimised" (https://skfb.ly/o8AFK) by Thomas Flynn, modified by me
   - can be picked up
   - edited by me
+
 3. "Game Ready American 50s Style Retro Sofa" (https://skfb.ly/6WN6G) by jQueary, modified by me
+
 4. "Palm tree" by Poly by Google via Poly Pizza (https://poly.pizza/m/2RUnO1Yi99P)
   - larger than human scale
+
 5. "Polygonal Venus Statue - Low Poly" (https://skfb.ly/6yOqW) by Enlil Scan
+
 6. "Fiji Water Bottle" (https://skfb.ly/6TnWP) by Diego T. Yamaguchi
   - can be picked up
+
 7. "BSOD Pillar" (https://skfb.ly/6WSyD) by CarbonCopyCat
   - larger than human scale
+
 8. "Flamingo AESTHETICS" (https://skfb.ly/6xYrw) by RSanmartin
   - can be picked up
+
 9. "Computer 90s" by Charlie via Poly Pizza (https://poly.pizza/m/Bw55oYsbp8)
+
 10. "Vending Machine" by dook via Poly Pizza (https://poly.pizza/m/yNG4vqWVq0)
+
 11. "arcade machine" (https://skfb.ly/6Rqvu) by Logotyp
+
 12. "Soda" by Kenney (https://poly.pizza/m/mo7Wh0KaHW)
   - can be picked up
+
 13. "Greek Pillar" (https://skfb.ly/YSqq) by TheRookie
   - can be picked up
+
+14. "Bar Table" by VR XRTIST via Poly Pizza (https://poly.pizza/m/bcKqTXlGgTu), modified by me
+  - edited by me
+
 
 ### DISCUSSION
 
