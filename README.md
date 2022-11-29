@@ -49,6 +49,13 @@ This is my third project for CS428: Augmented and Virtual Reality course at UIC.
 14. "Bar Table" by VR XRTIST via Poly Pizza (https://poly.pizza/m/bcKqTXlGgTu), modified by me
   - edited by me
 
+#### 2D ASSETS
+15. https://www.deviantart.com/windows05/art/F2U-Aesthetic-Eyes-798597543
+16. https://pixabay.com/vectors/pattern-checkered-checkerboard-26399/
+17. https://stock.adobe.com/images/vector-image-of-distorted-holographic-pearly-neon-mesh-vaporwave-synthwave-cyberpunk-illustration/254450887
+18. https://www.deviantart.com/robilo/art/RetroWave-Sun-with-Alpha-background-654300491
+19. https://transparants.tumblr.com/post/182939704154/vaporwave-transparents-like-or-reblog-if
+(animated!)
 
 ### DISCUSSION
 
